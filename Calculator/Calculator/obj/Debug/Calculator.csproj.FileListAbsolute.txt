@@ -1,0 +1,7 @@
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Calculator\Calculator\obj\Debug\Calculator.pdb

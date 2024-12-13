@@ -1,0 +1,7 @@
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\bin\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.exe.config
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\bin\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.exe
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\bin\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.pdb
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\obj\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.csproj.AssemblyReference.cache
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\obj\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.csproj.CoreCompileInputs.cache
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\obj\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.exe
+C:\Users\Reha-TN\OneDrive - EDU BBRZ Reha\Programmierung\C#\Kazimierz Szpin - C#\Praca Domowa TYDZIEN 3 LEKCJA 23\Praca Domowa TYDZIEN 3 LEKCJA 23\obj\Debug\Praca Domowa TYDZIEN 3 LEKCJA 23.pdb
